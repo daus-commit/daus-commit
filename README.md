@@ -42,7 +42,3 @@ A few notable projects I have developed and contributed to:
     *   `template-yii2Advance` (AdminLTE dashboard layout & mdmsoft RBAC configuration)
 
 ---
-
-### 📊 GitHub Stats
-
-A quick glance at my coding activity and repository performance:
