@@ -46,6 +46,3 @@ A few notable projects I have developed and contributed to:
 ### 📊 GitHub Stats
 
 A quick glance at my coding activity and repository performance:
-
-![Firdaus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true)
