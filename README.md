@@ -1,12 +1,12 @@
 # Hi, I'm Firdaus Hakimi! 👋
 
-### 🚀 About Me
+### About Me
 I am a highly motivated **Junior Programmer** and **Full-Stack Developer** with practical industry experience. I specialize in building web applications, designing intuitive UI/UX layouts, integrating APIs, and crafting responsive web experiences using modern frameworks. Currently, I am actively sharpening my backend engineering and enterprise architecture skills.
 
-- 💼 **Current Internship:** Junior Backend Developer, UI/UX Designer & IT Technician at **HPCS Sdn Bhd** (Alam Budiman, Selangor)
-- 🌱 **Core Focus:** Laravel, Yii2 Advanced, Enterprise-Grade Web Apps, & AI Integration
-- 🌐 **Live Portfolio:** [portfolio-firdaus-umber.vercel.app](https://portfolio-firdaus-umber.vercel.app)
-- ✉️ **Get in Touch:** [Contact Me via Portfolio](https://portfolio-firdaus-umber.vercel.app/)
+- **Current Internship:** Junior Backend Developer, UI/UX Designer & IT Technician at **HPCS Sdn Bhd** (Alam Budiman, Selangor)
+- **Core Focus:** Laravel, Yii2 Advanced, Enterprise-Grade Web Apps, & AI Integration
+- **Live Portfolio:** [portfolio-firdaus-umber.vercel.app](https://portfolio-firdaus-umber.vercel.app)
+- **Get in Touch:** [Contact Me via Portfolio](https://portfolio-firdaus-umber.vercel.app/)
 
 ---
 
@@ -31,7 +31,7 @@ Technologies, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-### 📂 Featured Projects & Contributions
+### Featured Projects & Contributions
 A few notable projects I have developed and contributed to:
 
 *   **VR Korban: Islamic Education** – An immersive, custom Virtual Reality application built for Meta Quest 3 designed to teach the rituals of Islamic Korban.
