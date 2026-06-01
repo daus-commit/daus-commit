@@ -1,6 +1,6 @@
 name: Generate Mario Contribution Graph
 
-"on":
+true:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
