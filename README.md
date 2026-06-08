@@ -16,9 +16,9 @@ Technologies, frameworks, and tools I use to bring ideas to life:
 #### **Backend & Frameworks**
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-%23D12711.svg?style=for-the-badge&logo=yii&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### **Frontend, CMS & Design**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Blade](https://img.shields.io/badge/Laravel%20Blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-%23F44336.svg?style=for-the-badge&logo=joomla&logoColor=white)
