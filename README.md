@@ -1,4 +1,4 @@
-# Hi, I'm Firdaus Hakimi! 👋
+# Hi, I'm Firdaus Hakimi!
 
 ### About Me
 I am a highly motivated **Junior Programmer** and **Full-Stack Developer** with practical industry experience. I specialize in building web applications, designing intuitive UI/UX layouts, integrating APIs, and crafting responsive web experiences using modern frameworks. Currently, I am actively sharpening my backend engineering and enterprise architecture skills.
@@ -10,7 +10,7 @@ I am a highly motivated **Junior Programmer** and **Full-Stack Developer** with 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 Technologies, frameworks, and tools I use to bring ideas to life:
 
 #### **Backend & Frameworks**
