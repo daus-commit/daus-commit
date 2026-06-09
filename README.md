@@ -1,7 +1,7 @@
 # Hi, I'm Firdaus Hakimi!
 
 ### About Me
-I am a highly motivated **Full-Stack Developer** with practical industry experience and hands on with real projects(I've my own client). I specialize in building web applications, designing intuitive UI/UX layouts, integrating APIs, and crafting responsive web experiences using modern frameworks. Currently, I am actively sharpening my backend engineering and enterprise architecture skills.
+I am a highly motivated **Junior Full-Stack Developer** with practical industry experience and hands on with real project(I've my own client). I specialize in building web applications, designing intuitive UI/UX layouts, integrating APIs, and crafting responsive web experiences using modern frameworks. Currently, I am actively sharpening my backend engineering and enterprise architecture skills.
 
 - **Current Internship:** Junior Backend Developer, UI/UX Designer & IT Technician at **HPCS Sdn Bhd** (Alam Budiman, Selangor)
 - **Core Focus:** Laravel, Yii2 Advanced, Enterprise-Grade Web Apps, & AI Integration
