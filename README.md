@@ -1,6 +1,6 @@
 # Hi, I'm Firdaus Hakimi!
 
-## Fullstack Developer • Backend Architecture • Production Web Systems
+## Fullstack Developer | Backend Architecture | Production Web Systems
 
 I am a Fullstack Developer focused on building scalable web applications, reusable backend systems, and modern responsive interfaces using production-ready development workflows.
 
@@ -109,4 +109,5 @@ Currently improving:
 
 # ⚡ Engineering Philosophy
 
-> Build systems that are scalable, maintainable, and production-ready — not just visually functional.
+> Build systems that are scalable, maintainable, and production-ready.
+> Not just visually functional.
