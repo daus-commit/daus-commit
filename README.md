@@ -1,41 +1,20 @@
-# Hi, I'm Firdaus Hakimi 👋
+# Hi, I'm Firdaus Hakimi!
 
-## Fullstack Developer | Backend Architecture | Production Web Systems
+## Fullstack Developer • Backend Architecture • Production Web Systems
 
-I am a Fullstack Developer with hands-on industry experience in building scalable web applications, enterprise-grade backend systems, and modern responsive user interfaces.
+I am a Fullstack Developer focused on building scalable web applications, reusable backend systems, and modern responsive interfaces using production-ready development workflows.
 
-My primary focus is backend architecture, reusable system design, API integration, RBAC implementation, and production-ready web development workflows using modern technologies such as Laravel, Yii2 Advanced, and Next.js.
-
-Currently, I am continuously improving my engineering workflow, backend scalability knowledge, and system architecture practices through real-world projects and client-based development.
+Currently working with technologies such as Laravel, Yii2 Advanced, Next.js, and AI integrations while continuously improving my backend engineering and enterprise architecture skills through real-world development experience.
 
 ---
 
-## 🚀 Current Experience
+# 🎯 About Me
 
-**Junior Backend Developer, UI/UX Designer & IT Technician**
-HPCS Sdn Bhd — Alam Budiman, Selangor
-
-### Responsibilities
-
-* Developing and maintaining enterprise web applications
-* Designing responsive UI/UX layouts
-* Implementing RBAC authentication systems
-* Building reusable backend templates and workflows
-* API integration & AI-powered feature implementation
-* Supporting deployment and technical maintenance
-
----
-
-## 🧠 Core Technical Focus
-
-* Fullstack Web Development
-* Backend Architecture
-* Enterprise Application Development
-* REST API Integration
-* RBAC Authentication Systems
-* AI Integration Workflows
-* Reusable System Templates
-* Responsive UI/UX Design
+* Currently working on enterprise-grade web systems & reusable backend templates
+* Focused on backend architecture, RBAC systems, API integrations & scalable workflows
+* Experienced with real client projects and production deployment
+* Continuously improving system design, optimization & engineering workflows
+* Goal: Building reliable and scalable fullstack systems for real-world use cases
 
 ---
 
@@ -43,107 +22,91 @@ HPCS Sdn Bhd — Alam Budiman, Selangor
 
 ## Backend & Frameworks
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-%23D12711.svg?style=for-the-badge\&logo=yii\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-D12711?style=for-the-badge\&logo=yii\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ---
 
 ## Frontend & UI
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Blade](https://img.shields.io/badge/Laravel%20Blade-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
 ---
 
-## CMS, Tools & Deployment
+## Tools & Deployment
 
-![Joomla](https://img.shields.io/badge/Joomla-%23F44336.svg?style=for-the-badge\&logo=joomla\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
 
 ---
 
 # 📌 Featured Projects
 
-## VR Korban: Islamic Education
+## 🌐 Reusable Laravel Enterprise Template
 
-An immersive Virtual Reality learning application developed for Meta Quest 3 to educate users on Islamic Korban rituals through interactive experiences.
-
-### Highlights
-
-* VR interaction design
-* Educational simulation workflow
-* Custom immersive learning environment
-
----
-
-## Barokah Bersatu Enterprise
-
-A modern corporate landing page built using Next.js featuring AI-assisted text generation through OpenRouter and automated email workflows using EmailJS.
-
-### Highlights
-
-* AI API integration
-* Responsive corporate UI
-* SEO-friendly architecture
-* Production deployment workflow
-
----
-
-## Beambox Malaysia Corporate Website
-
-Designed and deployed a responsive Joomla-based corporate website with custom layouts and performance-focused optimizations.
-
-### Highlights
-
-* CMS customization
-* Performance optimization
-* Responsive web implementation
-
----
-
-# 🧩 Open Source Templates
-
-## template-laravel12-with-ai
-
-Production-ready Laravel starter template with:
+Production-ready Laravel starter template featuring:
 
 * Filament CRUD
 * Spatie RBAC
 * OpenRouter AI Integration
-* Reusable backend architecture
+* Modular backend architecture
+* Reusable development workflow
 
 ---
 
-## template-yii2Advance
+## 🌐 Yii2 Advanced Enterprise Template
 
-Enterprise-ready Yii2 Advanced template featuring:
+Enterprise-ready Yii2 template built with:
 
 * AdminLTE dashboard structure
 * mdmsoft RBAC integration
-* Modular backend workflow
 * Authentication-ready architecture
+* Modular scalable workflow
 
 ---
 
-# 🌐 Portfolio & Contact
+## 🌐 Barokah Bersatu Enterprise
 
-* Portfolio: https://portfolio-firdaus-umber.vercel.app
-* GitHub: https://github.com/
-* Contact: Available via portfolio website
+Modern corporate landing page built with Next.js featuring:
+
+* Responsive UI/UX
+* AI-assisted text helper
+* EmailJS integration
+* SEO-friendly architecture
+
+---
+
+## 🌐 VR Korban: Islamic Education
+
+Interactive Meta Quest 3 VR application designed to educate users on Islamic Korban rituals through immersive learning experiences.
 
 ---
 
 # 📈 Current Focus
 
-Currently focused on improving:
+Currently improving:
 
-* System scalability
-* Backend engineering practices
-* Enterprise architecture workflows
-* AI-powered application integration
-* Production-grade deployment strategies
+* Backend scalability
+* System architecture
+* Enterprise engineering workflows
+* AI-powered web applications
+* Production deployment strategies
+
+---
+
+# 🌐 Portfolio & Contact
+
+* 🌍 Portfolio: https://portfolio-firdaus-umber.vercel.app
+* 💻 GitHub: https://github.com/daus-commit
+
+---
+
+# ⚡ Engineering Philosophy
+
+> Build systems that are scalable, maintainable, and production-ready — not just visually functional.
